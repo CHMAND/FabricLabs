@@ -1,7 +1,7 @@
 # FabricLabs
 
 
-# Agenda
+# Agenda for the Day
 **08:00-09:00:** Arrival, registration and breakfast  
 **09:00-09:30:** Intro to Fabric and the use cases for the platform w/ Brian & Mathias  
 **09:30-10:20:** Ingestion of data using Data Pipelines - with hands on labs w/ Mathias  
@@ -22,3 +22,5 @@
 # Datawarehousing
 
 In this lab we will go through the "Data Warehouse" experience from the [Multi-experience Tutorials](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction). This is intended to showcase the capabilities of Data Warehousing inside of Microsoft Fabric.
+
+First we will however start with a presentation of the capabilities of Fabric data warehousing, how it differs from other Microsoft data warehousing, and when to use it. 
