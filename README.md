@@ -24,3 +24,9 @@
 In this lab we will go through the "Data Warehouse" experience from the [Multi-experience Tutorials](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction). This is intended to showcase the capabilities of Data Warehousing inside of Microsoft Fabric.
 
 First we will however start with a presentation of the capabilities of Fabric data warehousing, how it differs from other Microsoft data warehousing, and when to use it. 
+
+# Data Science
+
+In this lab we will go through the "Data Science" experience from the [Multi-experience Tutorials](https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-introduction). This tutorial introduces the different Data Science capabilities of Microsoft Fabric.
+
+Before we start, we look at the machine learning life cycle and how different features in Microsoft Fabric enable Data Science from data exploration and analysis to model development and deployment.
