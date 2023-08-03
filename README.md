@@ -24,3 +24,8 @@
 In this lab we will go through the "Data Warehouse" experience from the [Multi-experience Tutorials](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction). This is intended to showcase the capabilities of Data Warehousing inside of Microsoft Fabric.
 
 First we will however start with a presentation of the capabilities of Fabric data warehousing, how it differs from other Microsoft data warehousing, and when to use it. 
+
+# Real-Time Analytics
+
+This lab will focus on the Kusto Experience in Fabric and use the [Real-time tutorial from Microsoft online](https://learn.microsoft.com/en-us/fabric/real-time-analytics/tutorial-introduction). 
+This lab is intended to demo the different possibilities with Kusto inside the unified experience of Fabric.
