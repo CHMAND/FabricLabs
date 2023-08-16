@@ -13,7 +13,7 @@
 **13:50-14:00:** 10 min break  
 **14:00-14:50:** Realtime analytics - with hands on labs w/ Brian  
 **14:50-15:00:** 10 min break  
-**15:00-15:50:** Power BI analytics using DirektLake - with hands on labs w/ Lars  
+**15:00-15:50:** Power BI analytics using Direkt Lake - with hands on labs w/ Lars  
 **15:50-16:30:** Pespectives, Roll-off and closing  
 
 
@@ -30,3 +30,12 @@ First we will however start with a presentation of the capabilities of Fabric da
 In this lab we will go through the "Data Science" experience from the [Multi-experience Tutorials](https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-introduction). This tutorial introduces the different Data Science capabilities of Microsoft Fabric.
 
 Before we start, we look at the machine learning life cycle and how different features in Microsoft Fabric enable Data Science from data exploration and analysis to model development and deployment.
+
+# Real-Time Analytics
+
+This lab will focus on the Kusto Experience in Fabric and use the [Real-time tutorial from Microsoft online](https://learn.microsoft.com/en-us/fabric/real-time-analytics/tutorial-introduction). 
+This lab is intended to demo the different possibilities with Kusto inside the unified experience of Fabric.
+
+# Direct Lake
+
+The content for this lab is located [here](https://github.com/CHMAND/FabricLabs/blob/main/Lab%20-%20Build%20a%20Direct%20Lake%20dataset.pdf). It is inspired by [Lakehouse end-to-end scenario: overview and architecture](https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction). This lab is more basic and focus on creating a simple lakehouse, simple ingestion of sample data, a Direct Lake dataset and creating a report.
