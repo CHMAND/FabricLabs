@@ -5,7 +5,7 @@
 **08:00-09:00:** Arrival, registration and breakfast  
 **09:00-09:30:** Intro to Fabric and the use cases for the platform w/ Brian & Mathias  
 **09:30-10:20:** Ingestion of data using Data Pipelines - with hands on labs w/ Mathias  
-**10:20-11:10:** Data transformation using Notebooks and Dataflow gen 2 - with hands on labs - w/ Henri & Christian  
+**10:20-11:10:** Data transformation using Dataflow Gen 2 - with hands on labs - w/ Henri & Christian  
 **11:10-11:20:** 10 min break  
 **11:20-12:10:** Data Warehouse in Fabric - with hands on labs w/ Christian  
 **12:10-13:00:** Lunch  
