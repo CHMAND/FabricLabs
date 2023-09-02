@@ -15,6 +15,8 @@
 
 # Todays Labs:
 
+![FabricComponents](/Images/FabricComponents.png)
+
 ## Ingestion of data using Data Pipelines
 
 Mathias, please include a little info + link in this section
@@ -47,4 +49,3 @@ This lab is intended to demo the different possibilities with Kusto inside the u
 
 The content for this lab is located [here](https://github.com/CHMAND/FabricLabs/blob/main/Lab%20-%20Build%20a%20Direct%20Lake%20dataset.pdf). It is inspired by [Lakehouse end-to-end scenario: overview and architecture](https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction). This lab is more basic and focus on creating a simple lakehouse, simple ingestion of sample data, a Direct Lake dataset and creating a report.
 
-![FabricComponents](/Images/FabricComponents.png)
