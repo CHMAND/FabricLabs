@@ -1,7 +1,4 @@
-# FabricLabs
-
-
-# Agenda for the Day
+# FabricLabs - Agenda for the Day
 **08:00-09:00:** Arrival, registration and breakfast  
 **09:00-09:30:** Intro to Fabric and the use cases for the platform w/ Brian & Mathias  
 **09:30-10:20:** Ingestion of data using Data Pipelines - with hands on labs w/ Mathias  
@@ -41,7 +38,7 @@ In this lab we will go through the "Data Science" experience from the [Multi-exp
 
 Before we start, we look at the machine learning life cycle and how different features in Microsoft Fabric enable Data Science from data exploration and analysis to model development and deployment.
 
-# Real-Time Analytics
+## Real-Time Analytics
 
 This lab will focus on the Kusto Experience in Fabric and use the [Real-time tutorial from Microsoft online](https://learn.microsoft.com/en-us/fabric/real-time-analytics/tutorial-introduction). 
 This lab is intended to demo the different possibilities with Kusto inside the unified experience of Fabric.
@@ -49,3 +46,5 @@ This lab is intended to demo the different possibilities with Kusto inside the u
 ## Direct Lake
 
 The content for this lab is located [here](https://github.com/CHMAND/FabricLabs/blob/main/Lab%20-%20Build%20a%20Direct%20Lake%20dataset.pdf). It is inspired by [Lakehouse end-to-end scenario: overview and architecture](https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction). This lab is more basic and focus on creating a simple lakehouse, simple ingestion of sample data, a Direct Lake dataset and creating a report.
+
+![FabricComponents](/Images/FabricComponents.png)
