@@ -17,13 +17,13 @@
 
 ![FabricComponents](/Images/FabricComponents.png)
 
-## Ingestion of Data using Data Pipelines
-
+## Ingestion of data using data pipelines
+[Transform Data with a Dataflow](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-dataflow)
 In this lab we will go through the data integration capabilities in Fabric through the tutorial for [Data Factory end-to-end scenario](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-introduction). In module 1 you'll learn how to make a data pipeline to load data into Fabric for further transformation and use.
 
 ## Notebooks & Data Transformation using Dataflow Gen2
 
-In this lab we will go through the tutorial on [Transform Data with a Dataflow](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-pipeline). The focus is on module 2 and 3, while module 1 is a fast reiteration of copying data into a lakehouse. Without data there is not much to transform.
+In this lab we will go through the tutorial on [Transform Data with a Dataflow](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-dataflow). The focus is on module 2 and 3, while module 1 is a fast reiteration of copying data into a lakehouse. Without data there is not much to transform.
 
 We will also introduce notebooks as a way of transforming data, but as we will be visiting them again with Machine Learning their hands-on experience will come later. 
 
