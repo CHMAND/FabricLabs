@@ -19,8 +19,6 @@
 
 ## Ingestion of Data using Data Pipelines
 
-Mathias, please include a little info + link in this section
-
 In this lab we will go through the data integration capabilities in Fabric through the tutorial for [Data Factory end-to-end scenario](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-introduction). In module 1 you'll learn how to make a data pipeline to load data into Fabric for further transformation and use. If you finish early you'll get a chance to try out either of the optional module 2 or 3 for practice on how you transform data with dataflows or send up pipeline alerting with Outlook.
 
 ## Notebooks & Data Transformation using Dataflow Gen2
